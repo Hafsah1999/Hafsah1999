@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hafsah Naseer
-- 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack
 
 <!---
